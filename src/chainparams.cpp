@@ -128,7 +128,7 @@ public:
         nMinerThreads = 0;
         nTargetTimespan = 1 * 60; // JIYO: 1 day
         nTargetSpacing = 1 * 60;  // JIYO: 1 minute
-        nMaturity = 9;
+        nMaturity = 9; //99
         nMasternodeCountDrift = 20;
         nMaxMoneyOut = 25000000 * COIN;
 
